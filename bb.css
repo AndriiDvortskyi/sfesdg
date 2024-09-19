@@ -1,0 +1,55 @@
+body{
+background: linear-gradient(to right, green, red);    
+}
+h2{
+text-align: center; 
+color: white;  
+}
+p{
+    text-align: center;
+    color: white;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+#qq{
+color: white;    
+}
+#vv{
+    text-align: center;
+    color: white;
+}
+#ff{
+    
+    color: white;
+}
+#gg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+     text-decoration: none;
+     color: white; 
+ 
+       
+}
+#rr{
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+form{
+    color: white;
+}
+
+
+
