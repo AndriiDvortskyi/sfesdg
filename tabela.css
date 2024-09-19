@@ -1,0 +1,33 @@
+th{
+background-color: red;  
+
+}
+td{
+background-color: aquamarine;    
+}
+#qq{
+background-color: chartreuse;    
+}
+#bb{
+background-color: white;    
+}
+
+#t1{
+padding: 30px;    
+}
+
+#t2{
+ margin: 20px 10px;   
+}
+#t3{
+ margin: 30px 10% 17px;   
+}
+#t4{
+  margin: 10px 21px 6px 17px;  
+}
+#t5{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 17px;
+    margin-right: 23px;
+}
